@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DiscountCalculator": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
