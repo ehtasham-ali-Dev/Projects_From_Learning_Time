@@ -8,7 +8,7 @@
                                                         1000 then i'll update it furthur more */
 
 
-
+            // now i'll apply funtions here 
 
 
             Console.WriteLine("----Welcome to Sham'z store----");
