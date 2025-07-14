@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GroceryManagementSystem": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
