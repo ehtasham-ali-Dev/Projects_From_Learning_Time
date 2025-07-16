@@ -138,11 +138,11 @@
                     Console.WriteLine("");
                     Console.Clear();
                     Console.WriteLine("Thanks for your complain we will  take action on it .....");
-                   break;
+                    Environment.Exit(0);
                 }
                 else
                 {
-                    break;
+                    Environment.Exit(0);
                 }
                     
             }
