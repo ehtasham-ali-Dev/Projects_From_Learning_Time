@@ -1,5 +1,5 @@
 ﻿
-using FormatorsAppNew.Properties;
+using  FormatorsAppNew.Properties;
 using System;
 using System.Globalization;
 
@@ -14,7 +14,7 @@ namespace FormatorsAppNew
         {
             private static void Main(string[] args)
             {
-                // for a while i turn off typing sound due to erros ......
+                // for a while i turn off typing sound due   to errors ......
 
                 //SoundPlayer typingSoundPlayer = new SoundPlayer(Resources.KBSound);
 

@@ -53,7 +53,7 @@
                         break;
                     case 3:
                         {
-
+                            RemoveItems();
                         }
                         break;
                     case 4:
@@ -117,6 +117,16 @@
 
                     Console.Clear();
                 }
+
+            }
+            static void RemoveItems()
+            {
+                Console.WriteLine("Currently there is no feature of remove item ");
+                Console.WriteLine("");
+                Console.WriteLine("Press any key to go back to home screen.....");
+                Console.ReadKey();
+                Console.Clear();
+                Home();
 
             }
             static void Exit()
