@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FormatorsAppNew": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
