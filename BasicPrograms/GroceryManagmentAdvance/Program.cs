@@ -76,21 +76,24 @@
         }
         static void VeiwItems()
         {
-            for (int i = 0; i < items.Count; i++)
-            {
-                if (items[i] == null)
+          
+                if (items.Count == null)
                 {
                     Console.WriteLine("No items no display please Add items....");
                    GoToHome();
                 }
-                else
-                {
-                    Console.WriteLine(items[0]);
-                    Console.WriteLine(quantities[0]);
-                    Console.WriteLine(prices[0]);
-                }
+            for (int i = 0; i < items.Count; i++)
+            {
+                
+                    Console.WriteLine(items[i]);
+                    Console.WriteLine(quantities[i]);
+                    Console.WriteLine(prices[i]);
+                
+               
             }
+            GoToHome() ;
         }
+        
 
     }
 }
