@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NotePadApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
